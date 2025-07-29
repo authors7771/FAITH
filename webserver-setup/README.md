@@ -1,4 +1,3 @@
-좋습니다. 아래는 **webserver-setup**에 대한 `README.md` 초안입니다. 위의 `Android AVD Rooting` 가이드와 유사한 형식으로 작성했으며, 구성 요소 및 동작 원리를 자세히 기술했습니다.
 
 ---
 
