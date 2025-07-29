@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # Web Server Setup for Certificate Validation Tests
 
 This directory contains scripts and configurations to deploy an Apache2 web server for testing TLS certificate validation behaviors in mobile browsers and in-app WebView environments.
