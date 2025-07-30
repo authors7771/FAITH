@@ -1,4 +1,6 @@
-<img width="1030" height="1257" alt="스크린샷 2025-07-30 10-58-27" src="https://github.com/user-attachments/assets/3a43f119-cd5d-4178-87a8-339445f29822" />---
+
+[Table.pdf](https://github.com/user-attachments/files/21504619/Table.pdf)
+
 ### 🔗 Mapping Between Paper and GitHub Test Case IDs
 
 In our paper (see *Table A2: Total Test Cases*), we assigned logical test numbers to improve readability and categorize certificate validation cases across various classes such as \[D]esktop, \[M]obile, \[I]CA, \[L]C, etc.
