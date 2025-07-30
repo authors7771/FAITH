@@ -1,0 +1,314 @@
+===============================
+📌 [PKIX.validate()] Triggered for *.inapp.test
+🌐 Host: finaltest1.inapp.test
+===============================
+🧾 CertPath Length: 2
+  🔹 [Cert 0] Subject: CN=*.inapp.test
+             Issuer : CN=Test Intermediate Certificate Authority,O=Inha University,C=KR
+             -----BEGIN CERTIFICATE-----
+MIIDtDCCAzqgAwIBAgIUbiLeOFsN4LYSFYcSCoqHSeklZcwwCgYIKoZIzj0EAwMw
+WTELMAkGA1UE
+BhMCS1IxGDAWBgNVBAoMD0luaGEgVW5pdmVyc2l0eTEwMC4GA1UEAwwnVGVzdCBJ
+bnRlcm1lZGlh
+dGUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5MB4XDTI0MDUyODEwMTUxOVoXDTI1MDUy
+ODEwMTUxOVow
+FzEVMBMGA1UEAwwMKi5pbmFwcC50ZXN0MHYwEAYHKoZIzj0CAQYFK4EEACIDYgAE
+D4QwOXjRZFyU
+ltsKeUdEAVt40PtOralM7fJfrkeOlIf4mTjRFQ4OjSYGkgPwuAmUN259DrMQ0hA0
+++/hjvyK3NVr
+Qq0V9XpuUkoaEBcT31ohaYtVR8FAEGdRyhDD5IQUo4ICAzCCAf8wHQYDVR0OBBYE
+FLuzESTrIGMn
+24EGVGL7QhX8dHaEMIGOBgNVHSMEgYYwgYOAFK+vUrQtInIi8Z/h44Z298XBeh7i
+oVWkUzBRMQsw
+CQYDVQQGEwJLUjEYMBYGA1UECgwPSW5oYSBVbml2ZXJzaXR5MSgwJgYDVQQDDB9U
+ZXN0IFJvb3Qg
+Q2VydGlmaWNhdGUgQXV0aG9yaXR5ghQv9Ihj7Apypkmfdda/KTJCEJuJADAMBgNV
+HRMBAf8EAjAA
+MAsGA1UdDwQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDATA+BgNVHREENzA1ggwq
+LmluYXBwLnRl
+c3SCD2luaGEuaW5hcHAudGVzdIIJbG9jYWxob3N0ggkxMjcuMC4wLjEwLQYDVR0f
+BCYwJDAioCCg
+HoYcaHR0cDovL2V4YW1wbGUudGVzdC9teWNhLmNybDAhBgNVHSAEGjAYMAgGBmeB
+DAECATAMBgor
+BgEEAdZ5AgUDMGIGCCsGAQUFBwEBBFYwVDAlBggrBgEFBQcwAYYZaHR0cDovL29j
+c3AuZXhhbXBs
+ZS50ZXN0LzArBggrBgEFBQcwAoYfaHR0cDovL215Y2EuZXhhbXBsZS50ZXN0L2Nh
+LmRlcjAnBgor
+BgEEAdZ5AgQCBBkMF2ludmFsaWRTQ1RMaXN0U3RydWN0dXJlMAoGCCqGSM49BAMD
+A2gAMGUCMQCP
+MGQs0lJFmr1HCw2O68+ZpiP4+F/UpitxS+pTQvL+OwOoXrCu5rUiIusWOeUFaGQC
+MCBXJUBL0/ZL
+BoqIqwWnKQaTAQJ9MVZhFhKj3Lv6fDe1ZpBysYrDB3airRZL2aRWSQ==
+-----END CERTIFICATE-----
+  🔹 [Cert 1] Subject: CN=Test Intermediate Certificate Authority,O=Inha University,C=KR
+             Issuer : CN=Test Root Certificate Authority,O=Inha University,C=KR
+             -----BEGIN CERTIFICATE-----
+MIIDczCCAvigAwIBAgIUL/SIY+wKcqZJn3XWvykyQhCbiQAwCgYIKoZIzj0EAwMw
+UTELMAkGA1UE
+BhMCS1IxGDAWBgNVBAoMD0luaGEgVW5pdmVyc2l0eTEoMCYGA1UEAwwfVGVzdCBS
+b290IENlcnRp
+ZmljYXRlIEF1dGhvcml0eTAeFw0yNDA1MjgxMDE1MTlaFw0zMTA1MjgxMDE1MTla
+MFkxCzAJBgNV
+BAYTAktSMRgwFgYDVQQKDA9JbmhhIFVuaXZlcnNpdHkxMDAuBgNVBAMMJ1Rlc3Qg
+SW50ZXJtZWRp
+YXRlIENlcnRpZmljYXRlIEF1dGhvcml0eTB2MBAGByqGSM49AgEGBSuBBAAiA2IA
+BPL562DTW/Jx
+zxu13JEzzvhovyClR2sScEq49lgX28dtfzNTQHh4INYmV2BsQ5sYEd9jSKIfKO2c
+m0oXwbVbzv+5
+XiVR/1XWiZIQzKRQotqekrApyAO44z1nRqk0dwEKWqOCAYcwggGDMB0GA1UdDgQW
+BBSvr1K0LSJy
+IvGf4eOGdvfFwXoe4jCBjgYDVR0jBIGGMIGDgBScfIYqkg/v2oDWeFJVDnv9EDdq
+t6FVpFMwUTEL
+MAkGA1UEBhMCS1IxGDAWBgNVBAoMD0luaGEgVW5pdmVyc2l0eTEoMCYGA1UEAwwf
+VGVzdCBSb290
+IENlcnRpZmljYXRlIEF1dGhvcml0eYIUQySwsLN8JyjXnVioz/IsFuOJzS8wEgYD
+VR0TAQH/BAgw
+BgEB/wIBADALBgNVHQ8EBAMCAYYwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMC0GA1Ud
+HwQmMCQwIqAgoB6GHGh0dHA6Ly9leGFtcGxlLnRlc3QvbXljYS5jcmwwYgYIKwYB
+BQUHAQEEVjBU
+MCUGCCsGAQUFBzABhhlodHRwOi8vb2NzcC5leGFtcGxlLnRlc3QvMCsGCCsGAQUF
+BzAChh9odHRw
+Oi8vbXljYS5leGFtcGxlLnRlc3QvY2EuZGVyMAoGCCqGSM49BAMDA2kAMGYCMQCh
+TE8IfQWIcheh
+Gf/hNNu0sARsG/73pSWEX1HENFUet+3zFjGMvLfBVaDZlMwxW0YCMQC7mKaHHzTb
+9WU27Q5aWWMx
+gMGZ+6940J5B0A9BgP2KuHkQX+1NI4SqokoCakPJh0Y=
+-----END CERTIFICATE-----
+✅ TrustAnchor SubjectDN: CN=Test Root Certificate Authority,O=Inha University,C=KR
+📋 PKIX Policy Flags:
+  initialPolicies          : 
+  explicitPolicyRequired   : false
+  policyMappingInhibited   : false
+  anyPolicyInhibited       : false
+  policyQualifiersRejected : true
+✅ validate() succeeded
+🧵 validate() call stack:
+    at sun.security.provider.certpath.PKIXCertPathValidator.validate(Native Method)
+    at sun.security.provider.certpath.PKIXCertPathValidator.validate(PKIXCertPathValidator.java:140)
+    at sun.security.provider.certpath.PKIXCertPathValidator.engineValidate(PKIXCertPathValidator.java:79)
+    at java.security.cert.CertPathValidator.validate(CertPathValidator.java:309)
+    at com.android.org.conscrypt.TrustManagerImpl.verifyChain(TrustManagerImpl.java:715)
+    at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:549)
+    at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:570)
+    at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:615)
+    at com.android.org.conscrypt.TrustManagerImpl.checkTrusted(TrustManagerImpl.java:505)
+    at com.android.org.conscrypt.TrustManagerImpl.checkServerTrusted(TrustManagerImpl.java:334)
+    at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:113)
+    at android.security.net.config.RootTrustManager.checkServerTrusted(RootTrustManager.java:134)
+    at java.lang.reflect.Method.invoke(Native Method)
+    at android.net.http.X509TrustManagerExtensions.checkServerTrusted(X509TrustManagerExtensions.java:101)
+    at android.net.http.X509TrustManagerExtensions.checkServerTrusted(Native Method)
+    at WV.z00.h(chromium-TrichromeWebViewGoogle6432.apk-stable-636771938:124)
+    at org.chromium.net.AndroidNetworkLibrary.verifyServerCertificates(chromium-TrichromeWebViewGoogle6432.apk-stable-636771938:2)
+
+
+===============================
+📌 [PKIX.validate()] Triggered for *.inapp.test
+🌐 Host: finaltest6.inapp.test
+===============================
+🧾 CertPath Length: 2
+  🔹 [Cert 0] Subject: CN=*.inapp.test
+             Issuer : CN=Test Intermediate Certificate Authority,O=Inha University,C=KR
+             -----BEGIN CERTIFICATE-----
+MIIDtDCCAzqgAwIBAgIUbiLeOFsN4LYSFYcSCoqHSeklZckwCgYIKoZIzj0EAwMw
+WTELMAkGA1UE
+BhMCS1IxGDAWBgNVBAoMD0luaGEgVW5pdmVyc2l0eTEwMC4GA1UEAwwnVGVzdCBJ
+bnRlcm1lZGlh
+dGUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5MB4XDTI0MDUyODEwMTQyOVoXDTI1MDUy
+ODEwMTQyOVow
+FzEVMBMGA1UEAwwMKi5pbmFwcC50ZXN0MHYwEAYHKoZIzj0CAQYFK4EEACIDYgAE
+D4QwOXjRZFyU
+ltsKeUdEAVt40PtOralM7fJfrkeOlIf4mTjRFQ4OjSYGkgPwuAmUN259DrMQ0hA0
+++/hjvyK3NVr
+Qq0V9XpuUkoaEBcT31ohaYtVR8FAEGdRyhDD5IQUo4ICAzCCAf8wHQYDVR0OBBYE
+FLuzESTrIGMn
+24EGVGL7QhX8dHaEMIGOBgNVHSMEgYYwgYOAFK+vUrQtInIi8Z/h44Z298XBeh7i
+oVWkUzBRMQsw
+CQYDVQQGEwJLUjEYMBYGA1UECgwPSW5oYSBVbml2ZXJzaXR5MSgwJgYDVQQDDB9U
+ZXN0IFJvb3Qg
+Q2VydGlmaWNhdGUgQXV0aG9yaXR5ghQv9Ihj7Apypkmfdda/KTJCEJuI/TAMBgNV
+HRMBAf8EAjAA
+MAsGA1UdDwQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDATA+BgNVHREENzA1ggwq
+LmluYXBwLnRl
+c3SCD2luaGEuaW5hcHAudGVzdIIJbG9jYWxob3N0ggkxMjcuMC4wLjEwLQYDVR0f
+BCYwJDAioCCg
+HoYcaHR0cDovL2V4YW1wbGUudGVzdC9teWNhLmNybDAhBgNVHSAEGjAYMAgGBmeB
+DAECATAMBgor
+BgEEAdZ5AgUDMGIGCCsGAQUFBwEBBFYwVDAlBggrBgEFBQcwAYYZaHR0cDovL29j
+c3AuZXhhbXBs
+ZS50ZXN0LzArBggrBgEFBQcwAoYfaHR0cDovL215Y2EuZXhhbXBsZS50ZXN0L2Nh
+LmRlcjAnBgor
+BgEEAdZ5AgQCBBkMF2ludmFsaWRTQ1RMaXN0U3RydWN0dXJlMAoGCCqGSM49BAMD
+A2gAMGUCMDFY
+JsAnVlpbazqnR8X1mA6AWbQUn17iktqHW4+781iCjsg5q/0mwFyRUQUlfX9oBwIx
+ANGB155C2AXL
+KXtNZqEeWJj6D+uuA4cGqfrrM+4AqaawTkCwdJGmtxGvRq/pWRIz8w==
+-----END CERTIFICATE-----
+  🔹 [Cert 1] Subject: CN=Test Intermediate Certificate Authority,O=Inha University,C=KR
+             Issuer : CN=Test Root Certificate Authority,O=Inha University,C=KR
+             -----BEGIN CERTIFICATE-----
+MIIDgjCCAwegAwIBAgIUL/SIY+wKcqZJn3XWvykyQhCbiP0wCgYIKoZIzj0EAwMw
+UTELMAkGA1UE
+BhMCS1IxGDAWBgNVBAoMD0luaGEgVW5pdmVyc2l0eTEoMCYGA1UEAwwfVGVzdCBS
+b290IENlcnRp
+ZmljYXRlIEF1dGhvcml0eTAeFw0yNDA1MjgxMDE0MjlaFw0zMTA1MjgxMDE0Mjla
+MFkxCzAJBgNV
+BAYTAktSMRgwFgYDVQQKDA9JbmhhIFVuaXZlcnNpdHkxMDAuBgNVBAMMJ1Rlc3Qg
+SW50ZXJtZWRp
+YXRlIENlcnRpZmljYXRlIEF1dGhvcml0eTB2MBAGByqGSM49AgEGBSuBBAAiA2IA
+BPL562DTW/Jx
+zxu13JEzzvhovyClR2sScEq49lgX28dtfzNTQHh4INYmV2BsQ5sYEd9jSKIfKO2c
+m0oXwbVbzv+5
+XiVR/1XWiZIQzKRQotqekrApyAO44z1nRqk0dwEKWqOCAZYwggGSMB0GA1UdDgQW
+BBSvr1K0LSJy
+IvGf4eOGdvfFwXoe4jCBjgYDVR0jBIGGMIGDgBScfIYqkg/v2oDWeFJVDnv9EDdq
+t6FVpFMwUTEL
+MAkGA1UEBhMCS1IxGDAWBgNVBAoMD0luaGEgVW5pdmVyc2l0eTEoMCYGA1UEAwwf
+VGVzdCBSb290
+IENlcnRpZmljYXRlIEF1dGhvcml0eYIUQySwsLN8JyjXnVioz/IsFuOJzS8wCwYD
+VR0PBAQDAgGG
+MB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAtBgNVHR8EJjAkMCKgIKAe
+hhxodHRwOi8v
+ZXhhbXBsZS50ZXN0L215Y2EuY3JsMCEGA1UdIAQaMBgwCAYGZ4EMAQIBMAwGCisG
+AQQB1nkCBQMw
+YgYIKwYBBQUHAQEEVjBUMCUGCCsGAQUFBzABhhlodHRwOi8vb2NzcC5leGFtcGxl
+LnRlc3QvMCsG
+CCsGAQUFBzAChh9odHRwOi8vbXljYS5leGFtcGxlLnRlc3QvY2EuZGVyMAoGCCqG
+SM49BAMDA2kA
+MGYCMQCgAMf/SDyTMk+cRA0rADHHU5k8fiu7FvNgHXH9uh5KTu5laa5zKUnlonPa
+XipPjwUCMQDs
+Z8gmam9eK4vdixoEe/8rRfwutvP2cjuM/t0CJAtUSBbnCG0adGfK9gdgzGtaX2A=
+-----END CERTIFICATE-----
+✅ TrustAnchor SubjectDN: CN=Test Root Certificate Authority,O=Inha University,C=KR
+📋 PKIX Policy Flags:
+  initialPolicies          : 
+  explicitPolicyRequired   : false
+  policyMappingInhibited   : false
+  anyPolicyInhibited       : false
+  policyQualifiersRejected : true
+❌ validate() failed: Error: java.security.cert.CertPathValidatorException: basic constraints check failed: this is not a CA certificate
+🧵 validate() call stack:
+    at sun.security.provider.certpath.PKIXCertPathValidator.validate(Native Method)
+    at sun.security.provider.certpath.PKIXCertPathValidator.validate(PKIXCertPathValidator.java:140)
+    at sun.security.provider.certpath.PKIXCertPathValidator.engineValidate(PKIXCertPathValidator.java:79)
+    at java.security.cert.CertPathValidator.validate(CertPathValidator.java:309)
+    at com.android.org.conscrypt.TrustManagerImpl.verifyChain(TrustManagerImpl.java:715)
+    at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:549)
+    at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:570)
+    at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:615)
+    at com.android.org.conscrypt.TrustManagerImpl.checkTrusted(TrustManagerImpl.java:505)
+    at com.android.org.conscrypt.TrustManagerImpl.checkServerTrusted(TrustManagerImpl.java:334)
+    at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:113)
+    at android.security.net.config.RootTrustManager.checkServerTrusted(RootTrustManager.java:134)
+    at java.lang.reflect.Method.invoke(Native Method)
+    at android.net.http.X509TrustManagerExtensions.checkServerTrusted(X509TrustManagerExtensions.java:101)
+    at android.net.http.X509TrustManagerExtensions.checkServerTrusted(Native Method)
+    at WV.z00.h(chromium-TrichromeWebViewGoogle6432.apk-stable-636771938:124)
+    at org.chromium.net.AndroidNetworkLibrary.verifyServerCertificates(chromium-TrichromeWebViewGoogle6432.apk-stable-636771938:2)
+
+
+
+===============================
+📌 [PKIX.validate()] Triggered for *.inapp.test
+🌐 Host: finaltest6.inapp.test
+===============================
+🧾 CertPath Length: 2
+  🔹 [Cert 0] Subject: CN=*.inapp.test
+             Issuer : CN=Test Intermediate Certificate Authority,O=Inha University,C=KR
+             -----BEGIN CERTIFICATE-----
+MIIDtDCCAzqgAwIBAgIUbiLeOFsN4LYSFYcSCoqHSeklZckwCgYIKoZIzj0EAwMw
+WTELMAkGA1UE
+BhMCS1IxGDAWBgNVBAoMD0luaGEgVW5pdmVyc2l0eTEwMC4GA1UEAwwnVGVzdCBJ
+bnRlcm1lZGlh
+dGUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5MB4XDTI0MDUyODEwMTQyOVoXDTI1MDUy
+ODEwMTQyOVow
+FzEVMBMGA1UEAwwMKi5pbmFwcC50ZXN0MHYwEAYHKoZIzj0CAQYFK4EEACIDYgAE
+D4QwOXjRZFyU
+ltsKeUdEAVt40PtOralM7fJfrkeOlIf4mTjRFQ4OjSYGkgPwuAmUN259DrMQ0hA0
+++/hjvyK3NVr
+Qq0V9XpuUkoaEBcT31ohaYtVR8FAEGdRyhDD5IQUo4ICAzCCAf8wHQYDVR0OBBYE
+FLuzESTrIGMn
+24EGVGL7QhX8dHaEMIGOBgNVHSMEgYYwgYOAFK+vUrQtInIi8Z/h44Z298XBeh7i
+oVWkUzBRMQsw
+CQYDVQQGEwJLUjEYMBYGA1UECgwPSW5oYSBVbml2ZXJzaXR5MSgwJgYDVQQDDB9U
+ZXN0IFJvb3Qg
+Q2VydGlmaWNhdGUgQXV0aG9yaXR5ghQv9Ihj7Apypkmfdda/KTJCEJuI/TAMBgNV
+HRMBAf8EAjAA
+MAsGA1UdDwQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDATA+BgNVHREENzA1ggwq
+LmluYXBwLnRl
+c3SCD2luaGEuaW5hcHAudGVzdIIJbG9jYWxob3N0ggkxMjcuMC4wLjEwLQYDVR0f
+BCYwJDAioCCg
+HoYcaHR0cDovL2V4YW1wbGUudGVzdC9teWNhLmNybDAhBgNVHSAEGjAYMAgGBmeB
+DAECATAMBgor
+BgEEAdZ5AgUDMGIGCCsGAQUFBwEBBFYwVDAlBggrBgEFBQcwAYYZaHR0cDovL29j
+c3AuZXhhbXBs
+ZS50ZXN0LzArBggrBgEFBQcwAoYfaHR0cDovL215Y2EuZXhhbXBsZS50ZXN0L2Nh
+LmRlcjAnBgor
+BgEEAdZ5AgQCBBkMF2ludmFsaWRTQ1RMaXN0U3RydWN0dXJlMAoGCCqGSM49BAMD
+A2gAMGUCMDFY
+JsAnVlpbazqnR8X1mA6AWbQUn17iktqHW4+781iCjsg5q/0mwFyRUQUlfX9oBwIx
+ANGB155C2AXL
+KXtNZqEeWJj6D+uuA4cGqfrrM+4AqaawTkCwdJGmtxGvRq/pWRIz8w==
+-----END CERTIFICATE-----
+  🔹 [Cert 1] Subject: CN=Test Intermediate Certificate Authority,O=Inha University,C=KR
+             Issuer : CN=Test Root Certificate Authority,O=Inha University,C=KR
+             -----BEGIN CERTIFICATE-----
+MIIDczCCAvigAwIBAgIUL/SIY+wKcqZJn3XWvykyQhCbiQAwCgYIKoZIzj0EAwMw
+UTELMAkGA1UE
+BhMCS1IxGDAWBgNVBAoMD0luaGEgVW5pdmVyc2l0eTEoMCYGA1UEAwwfVGVzdCBS
+b290IENlcnRp
+ZmljYXRlIEF1dGhvcml0eTAeFw0yNDA1MjgxMDE1MTlaFw0zMTA1MjgxMDE1MTla
+MFkxCzAJBgNV
+BAYTAktSMRgwFgYDVQQKDA9JbmhhIFVuaXZlcnNpdHkxMDAuBgNVBAMMJ1Rlc3Qg
+SW50ZXJtZWRp
+YXRlIENlcnRpZmljYXRlIEF1dGhvcml0eTB2MBAGByqGSM49AgEGBSuBBAAiA2IA
+BPL562DTW/Jx
+zxu13JEzzvhovyClR2sScEq49lgX28dtfzNTQHh4INYmV2BsQ5sYEd9jSKIfKO2c
+m0oXwbVbzv+5
+XiVR/1XWiZIQzKRQotqekrApyAO44z1nRqk0dwEKWqOCAYcwggGDMB0GA1UdDgQW
+BBSvr1K0LSJy
+IvGf4eOGdvfFwXoe4jCBjgYDVR0jBIGGMIGDgBScfIYqkg/v2oDWeFJVDnv9EDdq
+t6FVpFMwUTEL
+MAkGA1UEBhMCS1IxGDAWBgNVBAoMD0luaGEgVW5pdmVyc2l0eTEoMCYGA1UEAwwf
+VGVzdCBSb290
+IENlcnRpZmljYXRlIEF1dGhvcml0eYIUQySwsLN8JyjXnVioz/IsFuOJzS8wEgYD
+VR0TAQH/BAgw
+BgEB/wIBADALBgNVHQ8EBAMCAYYwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUF
+BwMCMC0GA1UdCN=Test Intermediate Certificate Authority,O=Inha University,C=KR
+HwQmMCQwIqAgoB6GHGh0dHA6Ly9leGFtcGxlLnRlc3QvbXljYS5jcmwwYgYIKwYB
+BQUHAQEEVjBU
+MCUGCCsGAQUFBzABhhlodHRwOi8vb2NzcC5leGFtcGxlLnRlc3QvMCsGCCsGAQUF
+BzAChh9odHRw
+Oi8vbXljYS5leGFtcGxlLnRlc3QvY2EuZGVyMAoGCCqGSM49BAMDA2kAMGYCMQCh
+TE8IfQWIcheh
+Gf/hNNu0sARsG/73pSWEX1HENFUet+3zFjGMvLfBVaDZlMwxW0YCMQC7mKaHHzTb
+9WU27Q5aWWMx
+gMGZ+6940J5B0A9BgP2KuHkQX+1NI4SqokoCakPJh0Y=
+-----END CERTIFICATE-----
+✅ TrustAnchor SubjectDN: CN=Test Root Certificate Authority,O=Inha University,C=KR
+📋 PKIX Policy Flags:
+  initialPolicies          : 
+  explicitPolicyRequired   : false
+  policyMappingInhibited   : false
+  anyPolicyInhibited       : false
+  policyQualifiersRejected : true
+✅ validate() succeeded
+🧵 validate() call stack:
+    at sun.security.provider.certpath.PKIXCertPathValidator.validate(Native Method)
+    at sun.security.provider.certpath.PKIXCertPathValidator.validate(PKIXCertPathValidator.java:140)
+    at sun.security.provider.certpath.PKIXCertPathValidator.engineValidate(PKIXCertPathValidator.java:79)
+    at java.security.cert.CertPathValidator.validate(CertPathValidator.java:309)
+    at com.android.org.conscrypt.TrustManagerImpl.verifyChain(TrustManagerImpl.java:715)
+    at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:549)
+    at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:570)
+    at com.android.org.conscrypt.TrustManagerImpl.checkTrustedRecursive(TrustManagerImpl.java:638)
+    at com.android.org.conscrypt.TrustManagerImpl.checkTrusted(TrustManagerImpl.java:505)
+    at com.android.org.conscrypt.TrustManagerImpl.checkServerTrusted(TrustManagerImpl.java:334)
+    at android.security.net.config.NetworkSecurityTrustManager.checkServerTrusted(NetworkSecurityTrustManager.java:113)
+    at android.security.net.config.RootTrustManager.checkServerTrusted(RootTrustManager.java:134)
+    at java.lang.reflect.Method.invoke(Native Method)
+    at android.net.http.X509TrustManagerExtensions.checkServerTrusted(X509TrustManagerExtensions.java:101)
+    at android.net.http.X509TrustManagerExtensions.checkServerTrusted(Native Method)
+    at WV.z00.h(chromium-TrichromeWebViewGoogle6432.apk-stable-636771938:124)
+    at org.chromium.net.AndroidNetworkLibrary.verifyServerCertificates(chromium-TrichromeWebViewGoogle6432.apk-stable-636771938:2)
