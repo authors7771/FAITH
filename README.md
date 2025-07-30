@@ -1,7 +1,7 @@
 
 ---
 
-# 🔍 FAITH: Framework for Automated In-app Test Harnessing
+# 🔍 FAITH: Framework for Android and iOS In-app browser Trust & certificate Handling 
 
 FAITH is a modular framework designed to automate and reproduce in-app browser testing on mobile platforms. It enables certificate validation testing, root certificate injection, and DNS rerouting across Android and iOS environments.
 
