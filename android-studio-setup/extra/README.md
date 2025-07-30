@@ -21,7 +21,7 @@ This is just the automation evaluation example. Because different apps have diff
 - Node.js (for Appium)
 - Apps (e.g., Facebook Messenger,Android app: `com.facebook.orca`)
 
-> 🔹 For iOS: Replace `UiAutomator2` with `XCUITest` in your Appium configuration.
+> 🔹 For iOS: Replace `UiAutomator2` with `XCUITest` in your Appium configuration, check locations of test URLs, and modify the URL locations in the automation script.
 
 ---
 
