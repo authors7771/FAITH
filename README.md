@@ -17,10 +17,3 @@ FAITH is a modular framework designed to automate and reproduce in-app browser t
 - 🧬 Frida hooks for runtime certificate validation analysis
 
 ---
-
-## 📄 License
-
-MIT License
-```
-
----
