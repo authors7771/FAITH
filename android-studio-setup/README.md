@@ -128,3 +128,89 @@ This will mount the modified CA store using tmpfs and bind it into both `/system
 
 You're now ready to develop and test Android apps with root-level access and advanced configurations!
 
+---
+
+## ✅ 6. Frida Setup and Hooking Guide
+
+This section explains how to set up and use Frida to dynamically instrument and hook Android apps running on an AVD. Make sure your AVD is rooted as described earlier.
+
+---
+
+### 🔹 Install Frida CLI on Host (Ubuntu 22.04)
+
+Ensure that both the host machine and the AVD use matching **Frida major versions**.
+
+```bash
+pip install --upgrade frida==17.0.1 frida-tools==10.2.0
+```
+
+---
+
+### 🔹 Setup Frida Server on AVD
+
+1. Download the matching Frida server binary from the [Frida Releases page](https://github.com/frida/frida/releases).
+   Example for x86\_64 AVD:
+   `frida-server-17.0.1-android-x86_64.xz`
+
+2. Push and run on AVD:
+
+```bash
+adb push frida-server /data/local/tmp/
+adb shell chmod +x /data/local/tmp/frida-server
+adb shell setenforce 0  # If SELinux is enforcing
+adb shell /data/local/tmp/frida-server &
+```
+
+---
+
+## ✅ 7. Example Hook Script
+
+Save the following as `hook2.js`. It demonstrates how to hook a Java method using Frida.
+
+```javascript
+Java.perform(function () {
+    var MyClass = Java.use('com.example.MyClass');
+    MyClass.myFunction.implementation = function () {
+        console.log('[*] Hooked myFunction');
+        var result = this.myFunction();
+        console.log('[*] Result: ' + result);
+        return result;
+    };
+});
+```
+
+Modify class and method names as needed for your target app.
+
+---
+
+## ✅ 8. Attaching the Hook Script
+
+### Step 1: Identify target process
+
+```bash
+frida-ps -U | grep your.package.name
+```
+
+### Step 2: Attach the hook script
+
+```bash
+frida -U -n your.package.name -l hook2.js
+```
+
+> * `-U`: Connect to USB/ADB device (emulator is supported)
+> * `-n`: Target process name (e.g., app package)
+> * `-l`: Hook script path
+
+---
+
+## 📝 Notes
+
+* If you get errors like `unexpectedly timed out`, make sure:
+
+  * AVD is rooted and Frida server is running
+  * The app is already launched before attaching
+  * SELinux is set to `permissive` (`setenforce 0`)
+  * Frida CLI and server versions match exactly (e.g., both 17.0.1)
+
+---
+
