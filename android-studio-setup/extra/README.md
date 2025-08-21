@@ -4,6 +4,7 @@
 
 This example automates the process of clicking test site links inside the apps using Appium. It is designed for Android but can be extended to iOS with minor adjustments.
 This is just the automation evaluation example. Because different apps have different UI responses to certificate verification errors, you need to take this into account to use automation scripts.
+In addition, automation scripts take a long time to test a single link (least 2~3 seconds for UI communication such as swiping), so if you don't test many test cases (e.g., least than 100), it's much faster to click manually and be more sensitive to the each app's certificate verification errors.
 
 ---
 
