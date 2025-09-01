@@ -1,6 +1,8 @@
-<img width="1030" height="1257" alt="스크린샷 2025-07-30 10-58-27" src="https://github.com/user-attachments/assets/3a43f119-cd5d-4178-87a8-339445f29822" />---
+<img width="1030" height="1257" alt="스크린샷 2025-07-30 10-58-27" src="https://github.com/user-attachments/assets/3a43f119-cd5d-4178-87a8-339445f29822" />
 
 [Table.pdf](https://github.com/user-attachments/files/21504619/Table.pdf)
+
+---------------------------------------------------------------------------------------
 
 <img width="1025" height="1094" alt="image" src="https://github.com/user-attachments/assets/8186b601-4a19-4460-950a-794389e7c33f" />
 
