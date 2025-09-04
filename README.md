@@ -17,3 +17,6 @@ FAITH is a modular framework designed to automate and reproduce in-app browser t
 - 🧬 Frida hooks for runtime certificate validation analysis
 
 ---
+This repository is based on the study, "Deep Dive into In-app Browsers: Uncovering Hidden Pitfalls in Certificate Validation" in ACM CCS'25.
+Full paper DOI : Will be public soon.
+Additional report : [Additional_Report_for_Deep_Dive_into_In_app_Browsers_Uncovering_Hidden_Pitfalls_in_Certificate_Validation.pdf](https://github.com/user-attachments/files/22131276/Additional_Report_for_Deep_Dive_into_In_app_Browsers_Uncovering_Hidden_Pitfalls_in_Certificate_Validation.pdf)
